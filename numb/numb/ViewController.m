@@ -29,7 +29,7 @@
    
     self.view.backgroundColor = [UIColor blueColor];
     table.backgroundColor= [UIColor clearColor];
-    self.title = @"测试";
+    self.title = @"fuck";
     table.tableHeaderView = [[UIView alloc] initWithFrame:CGRectMake(0, 0, self.view.frame.size.width, 64)];
     table.tableHeaderView.backgroundColor = [UIColor lightGrayColor];
    
